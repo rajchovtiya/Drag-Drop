@@ -1,0 +1,12 @@
+[
+  {
+    "id": "blockA",
+    "label": "Block A",
+    "classNames": "green "
+  },
+  {
+    "id": "blockB",
+    "label": "Block B",
+    "classNames": "yellow "
+  }
+]
